@@ -1,4 +1,4 @@
-Hello, i'm seonghun 👋
+### Hello, i'm seonghun 👋
 <!--
 **leeshbio/leeshbio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
